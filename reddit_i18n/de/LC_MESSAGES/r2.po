@@ -4460,27 +4460,27 @@ msgstr ""
 
 #: r2/templates/subredditstylesheet.html:265
 msgid "normal link"
-msgstr ""
+msgstr "Normaler Link"
 
 #: r2/templates/subredditstylesheet.html:269
 msgid "compressed link"
-msgstr ""
+msgstr "Komprimierter Link"
 
 #: r2/templates/subredditstylesheet.html:273
 msgid "link with thumbnail"
-msgstr ""
+msgstr "Link mit Vorschau"
 
 #: r2/templates/thanks.html:34
 msgid "thanks for subscribing!"
-msgstr ""
+msgstr "Danke für das Abonnement!"
 
 #: r2/templates/thanks.html:39
 msgid "enter your confirmation code below to claim your gift creddits"
-msgstr ""
+msgstr "Gib unten deinen Bestätigungscode ein, um deine Geschenkpunkte zu erhalten!"
 
 #: r2/templates/thanks.html:41
 msgid "enter your confirmation code below to activate reddit gold"
-msgstr ""
+msgstr "Gib unten deinen Bestätigungscode ein, um Reddit Gold zu aktivieren"
 
 #: r2/templates/thanks.html:44
 msgid "You claimed a reddit gold subscription in the last few minutes."
@@ -4519,11 +4519,11 @@ msgstr ""
 
 #: r2/templates/userawards.html:54
 msgid "won by"
-msgstr ""
+msgstr "Gewonnen von"
 
 #: r2/templates/userawards.html:57
 msgid "recently won by"
-msgstr ""
+msgstr "Neulich gewonnen von"
 
 #: r2/templates/userawards.html:85
 msgid "for this"
@@ -4531,23 +4531,23 @@ msgstr "für"
 
 #: r2/templates/userawards.html:95
 msgid "Special awards:"
-msgstr ""
+msgstr "Spezialpreise:"
 
 #: r2/templates/useriphistory.html:30
 msgid "Recent activity on your account"
-msgstr ""
+msgstr "Letzte Aktivität mit Deinem Account"
 
 #: r2/templates/useriphistory.html:39
 msgid "IP address"
-msgstr ""
+msgstr "IP-Adresse"
 
 #: r2/templates/useriphistory.html:40
 msgid "Location"
-msgstr ""
+msgstr "Ort"
 
 #: r2/templates/useriphistory.html:41
 msgid "Last Visit"
-msgstr ""
+msgstr "Letzter besuch"
 
 #: r2/templates/userlist.html:37
 msgid "add"
@@ -4559,7 +4559,7 @@ msgstr ""
 
 #: r2/templates/usertext.html:72
 msgid "formatting help"
-msgstr ""
+msgstr "Hilfe zur Formatierung"
 
 #: r2/templates/usertext.html:95
 msgid "you type:"
@@ -4693,7 +4693,7 @@ msgstr ""
 
 #: r2/templates/widgetdemopanel.html:182
 msgid "number of links to show"
-msgstr ""
+msgstr "Anzahl der anzugeigenden Links"
 
 #: r2/templates/widgetdemopanel.html:200
 msgid "remove css styling"
